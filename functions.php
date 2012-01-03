@@ -27,7 +27,7 @@ function adminBarBottom() {
     </style>';
 }
 
-// Uncomment if you want it to be done in the Admin Section
+// Uncomment if you want it to be done in the Admin Section too
 
 // if ( is_admin_bar_showing() ) {
 //     add_action( 'admin_head', 'adminBarBottom' );

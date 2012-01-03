@@ -1,4 +1,4 @@
-# [Stick the Wordpress Admin Bar to the bottom](http://www.axioland.me)
+# [Stick the Wordpress Admin Bar to the bottom](http://www.axioland.me/blog/2012/01/03/coller-la-barre-de-wordpress-en-bas/)
 
 This is a simple code which does what it need to do : it put the Wordpress Admin bar to the bottom.
 
