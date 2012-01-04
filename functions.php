@@ -24,6 +24,9 @@ function adminBarBottom() {
         #wpadminbar .quicklinks .menupop ul#wp-admin-bar-wp-logo-external {
             background-color: white;
         }
+        body.wp-admin div#wpwrap div#footer {
+            bottom: 28px !important;
+        }
     </style>';
 }
 
